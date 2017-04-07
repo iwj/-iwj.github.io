@@ -3,7 +3,7 @@ layout: post
 title: 欢呼
 tagline: I finished building and start bloging.
 tag: blog
-categories: front-end 随笔
+categories: [随笔]
 ---
 
 ## 欢迎访问

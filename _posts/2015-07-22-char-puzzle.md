@@ -2,7 +2,7 @@
 layout: post
 title: 字符困惑
 date: 2015-7-22 16:12
-categories: [Python, io]
+categories: [开发, Python]
 ---
 
 ## 困惑来自不了解

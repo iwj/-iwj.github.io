@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mac OS X EI Capitan 下 pip 的一个包依赖问题
-categories: [io]
+categories: [开发]
 ---
 
 ## 安装 ipython 时发现错误

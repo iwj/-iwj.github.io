@@ -1,7 +1,7 @@
 ---
 layout: post
 title: tar zip 等压缩工具的使用手册
-categories: [io]
+categories: [开发]
 ---
 
 ## 对 tar 的认识

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lumia 535 相片精选集
-categories: [摄影, 随笔]
+categories: [随笔]
 ---
 
 ## 田牌智能手机

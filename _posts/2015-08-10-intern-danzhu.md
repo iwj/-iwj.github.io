@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 回忆：一次非常规实习
-categories: [随笔, 摄影]
+categories: [随笔]
 ---
 
 ## 那是衙门，我与之产生交集

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 前端探险
-categories: [front-end, io]
+categories: [开发, front-end]
 ---
 
 ## JavaScript 将会统治世界的

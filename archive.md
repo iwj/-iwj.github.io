@@ -10,7 +10,7 @@ permalink: /archive/
   <blockquote>
     {% for post in site.posts %}
       <span class="post-meta">
-        {{ post.date | date:"%Y-%m-%d"}}
+        {{ post.date | date: "%b %-d, %Y" }}
       </span>
       <h3>
         <a href="{{ post.url }}">{{ post.title }}</a>
@@ -32,7 +32,7 @@ permalink: /archive/
   <blockquote>
     {% for post in category.last %}
       <span class="post-meta">
-        {{ post.date | date:"%Y-%m-%d"}}
+        {{ post.date | date: "%b %-d, %Y" }}
       </span>
       <h3>
         <a href="{{ post.url }}">{{ post.title }}</a>

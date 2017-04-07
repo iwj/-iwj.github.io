@@ -1,7 +1,7 @@
 ---
 layout: post
 title: tornado 学习笔记
-category: [Python]
+category: [开发, Python]
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: tornado 站点上传文件到七牛
-categories: [Python]
+categories: [开发, Python]
 ---
 
 ## 酸溜溜文绉绉

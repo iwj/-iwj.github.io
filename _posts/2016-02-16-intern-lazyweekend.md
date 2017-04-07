@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 在西湖边
-category: [随笔, 摄影]
+category: [随笔]
 ---
 
 ## 回忆
