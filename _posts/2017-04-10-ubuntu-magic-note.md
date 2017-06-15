@@ -22,13 +22,16 @@ categories: [开发]
 
 买了付费 VPN 但是因为不好配， Ubuntu 下用的是 lantern 蓝灯，挺稳定，平时终端下装个包什么的下载速度都非常可观，比如，它解决了使用 Ruby 时的心头大痛，也免去换淘宝源这个步骤了。每个月都有免费的流量，项目托管在 [GitHub ](https://github.com/getlantern/forum/issues/833) 上面。没仔细了解这个项目，应该是中国开发者在维护的，这是个公益项目，如果是免费版尽量别用作其他用途吧，毕竟中国开发者上网环境是挺心酸艰苦的，难得有一个长命且稳定的科学上网工具，或者使用付费版支持这个项目。
 
+
 当时是个蠢萌的新手，下载了 deb 包，双击安装，却死活找不到启动图标。思维方式还停留在 Windows 那边。后来，知道了 `dpkg` 后，又点亮了 Ubuntu 的一盏明灯，在 Ubuntu 世界里穿行更迅捷了，同时强化了命令行思维方式。
+
+lantern 项目的 [GitHub地址 ](https://github.com/getlantern/forum/issues/833)
 
 ~~~bash
 通过上方的 GitHub 地址下载 deb 包后
 ~$ sudo dpkg -i 蓝灯.deb
 ~$ lantern
-启动完成后 lantern 会自动唤起默认浏览器
+启动完成后 lantern 会唤起默认浏览器
 ~~~
 
 以前不知道在命令行里直接用 lantern 命令启动，心会有多痛。
