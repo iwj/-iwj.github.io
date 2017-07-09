@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: J.Woo's Blog
+title: Orange Garden
 title_cn: 吴健部落格
 email: your-email@domain.com
 #description: > # this means to ignore newlines until "baseurl:"
@@ -26,4 +26,4 @@ markdown: kramdown
 permalink: /:title/
 paginate: 10
 paginate_path: "/page:num"
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
