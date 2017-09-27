@@ -34,7 +34,7 @@ categories: [Python]
 
 最终第一版的效果如下：
 
-![test-draw2](/image/20170923-pil-test-2.jpg)
+![test-draw2](/image/20170927-pil-test-2.jpg)
 
 ## 下一步
 
