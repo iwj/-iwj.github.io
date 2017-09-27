@@ -26,7 +26,7 @@ categories: [Python]
 
 第一次测试，用了大骨架姑娘新垣结衣的照片：
 
-[img]
+![test-draw](/image/20170927-pil-test-1.jpg)
 
 接下来，寻找清晰的苹果发布会嘉宾证照片。找了几张合适的，开始制作高仿嘉宾证。
 
@@ -34,7 +34,7 @@ categories: [Python]
 
 最终第一版的效果如下：
 
-[img]
+![test-draw2](/image/20170923-pil-test-2.jpg)
 
 ## 下一步
 
