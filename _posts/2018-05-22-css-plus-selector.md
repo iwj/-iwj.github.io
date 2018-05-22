@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CSS 里的加号选择器
-tagline: I finished building and start bloging.
+tagline: 暂时没有ε=ε=ε=┏(゜ロ゜;)┛
 tag: blog
 categories: [前端, CSS]
 ---
